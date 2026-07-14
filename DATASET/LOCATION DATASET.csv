@@ -1,0 +1,268 @@
+Location_ID,state,city
+L1,Andhra Pradesh,Vijayawada
+L2,Andhra Pradesh,Visakhapatnam
+L3,Arunachal Pradesh,Naharlagun
+L4,Assam,Byrnihat
+L5,Assam,Guwahati
+L6,Chhattisgarh,Raipur
+L7,Chhattisgarh,Tumidih
+L8,Delhi,Delhi
+L9,Bihar,Munger
+L10,Bihar,Muzaffarpur
+L11,Bihar,Patna
+L12,Andhra Pradesh,Guntur
+L13,Andhra Pradesh,Machilipatnam
+L14,Andhra Pradesh,Nellore
+L15,Andhra Pradesh,Rajamahendravaram
+L16,Andhra Pradesh,Tirumala
+L17,Andhra Pradesh,Tirupati
+L18,Chandigarh,Chandigarh
+L19,Chhattisgarh,Bhilai
+L20,Chhattisgarh,Korba
+L21,Chhattisgarh,Kunjemura
+L22,Chhattisgarh,Milupara
+L23,Bihar,Gaya
+L24,Bihar,Katihar
+L25,Bihar,Kishanganj
+L26,Bihar,Manguraha
+L27,Bihar,Purnia
+L28,Bihar,Rajgir
+L29,Bihar,Saharsa
+L30,Bihar,Samastipur
+L31,Bihar,Sasaram
+L32,Bihar,Siwan
+L33,Assam,Nagaon
+L34,Assam,Nalbari
+L35,Assam,Silchar
+L36,Assam,Sivasagar
+L37,Bihar,Araria
+L38,Bihar,Arrah
+L39,Bihar,Aurangabad
+L40,Bihar,Begusarai
+L41,Bihar,Bettiah
+L42,Bihar,Bhagalpur
+L43,Bihar,Chhapra
+L44,Andhra Pradesh,Amaravati
+L45,Andhra Pradesh,Anantapur
+L46,Gujarat,Ahmedabad
+L47,Gujarat,Ankleshwar
+L48,Gujarat,Bhavnagar
+L49,Gujarat,Gandhinagar
+L50,Gujarat,Mehsana
+L51,Gujarat,Nandesari
+L52,Haryana,Fatehabad
+L53,Haryana,Gurugram
+L54,Haryana,Hisar
+L55,Haryana,Kaithal
+L56,Haryana,Karnal
+L57,Haryana,Mandikhera
+L58,Haryana,Bahadurgarh
+L59,Haryana,Ballabgarh
+L60,Haryana,Bhiwani
+L61,Haryana,Charkhi Dadri
+L62,Haryana,Dharuhera
+L63,Haryana,Faridabad
+L64,Gujarat,Surat
+L65,Gujarat,Vadodara
+L66,Gujarat,Vatva
+L67,Haryana,Ambala
+L68,Haryana,Rohtak
+L69,Haryana,Sonipat
+L70,Haryana,Yamuna Nagar
+L71,Jammu & Kashmir,Pampore
+L72,Jammu & Kashmir,Srinagar
+L73,Jharkhand,Dhanbad
+L74,Jharkhand,Jorapokhar
+L75,Karnataka,Bagalkot
+L76,Karnataka,Belgaum
+L77,Maharashtra,Aurangabad
+L78,Maharashtra,Badlapur
+L79,Maharashtra,Beed
+L80,Maharashtra,Belapur
+L81,Maharashtra,Bhiwandi
+L82,Maharashtra,Boisar
+L83,Maharashtra,Chandrapur
+L84,Karnataka,Chikkaballapur
+L85,Karnataka,Chikkamagaluru
+L86,Karnataka,Dharwad
+L87,Karnataka,Gadag
+L88,Karnataka,Hubballi
+L89,Karnataka,Kalaburagi
+L90,Karnataka,Koppal
+L91,Karnataka,Madikeri
+L92,Karnataka,Mangalore
+L93,Karnataka,Mysuru
+L94,Madhya Pradesh,Satna
+L95,Madhya Pradesh,Singrauli
+L96,Madhya Pradesh,Ujjain
+L97,Maharashtra,Ahmednagar
+L98,Maharashtra,Akola
+L99,Maharashtra,Ambernath
+L100,Maharashtra,Amravati
+L101,Madhya Pradesh,Jabalpur
+L102,Madhya Pradesh,Katni
+L103,Madhya Pradesh,Mandideep
+L104,Madhya Pradesh,Ratlam
+L105,Madhya Pradesh,Sagar
+L106,Madhya Pradesh,Bhopal
+L107,Madhya Pradesh,Dewas
+L108,Madhya Pradesh,Gwalior
+L109,Madhya Pradesh,Indore
+L110,Karnataka,Bengaluru
+L111,Karnataka,Chamarajanagar
+L112,Karnataka,Ramanagara
+L113,Karnataka,Shivamogga
+L114,Kerala,Kollam
+L115,Kerala,Thiruvananthapuram
+L116,Haryana,Manesar
+L117,Haryana,Narnaul
+L118,Haryana,Palwal
+L119,Haryana,Panchgaon
+L120,Haryana,Panchkula
+L121,Haryana,Panipat
+L122,Maharashtra,Latur
+L123,Maharashtra,Mira-Bhayandar
+L124,Maharashtra,Mumbai
+L125,Maharashtra,Navi Mumbai
+L126,Maharashtra,Parbhani
+L127,Maharashtra,Pimpri-Chinchwad
+L128,Maharashtra,Pune
+L129,Maharashtra,Thane
+L130,Maharashtra,Ulhasnagar
+L131,Maharashtra,Virar
+L132,Meghalaya,Byrnihat
+L133,Meghalaya,Shillong
+L134,Mizoram,Aizawl
+L135,Odisha,Angul
+L136,Odisha,Balasore
+L137,Odisha,Barbil
+L138,Odisha,Baripada
+L139,Odisha,Bhubaneswar
+L140,Odisha,Bileipada
+L141,Odisha,Byasanagar
+L142,Odisha,Keonjhar
+L143,Maharashtra,Sangli
+L144,Maharashtra,Solapur
+L145,Maharashtra,Dhule
+L146,Maharashtra,Dombivli
+L147,Maharashtra,Hingoli
+L148,Maharashtra,Jalgaon
+L149,Maharashtra,Kolhapur
+L150,Maharashtra,Nanded
+L151,Maharashtra,Nashik
+L152,Rajasthan,Sirohi
+L153,Rajasthan,Sri Ganganagar
+L154,Rajasthan,Tonk
+L155,Rajasthan,Udaipur
+L156,Sikkim,Gangtok
+L157,TamilNadu,Chennai
+L158,Odisha,Rairangpur
+L159,Odisha,Rourkela
+L160,Odisha,Suakati
+L161,Odisha,Talcher
+L162,Odisha,Tensa
+L163,Puducherry,Puducherry
+L164,Punjab,Amritsar
+L165,Telangana,Hyderabad
+L166,Rajasthan,Jaipur
+L167,Rajasthan,Jaisalmer
+L168,Rajasthan,Jalore
+L169,Rajasthan,Jhalawar
+L170,Rajasthan,Jhunjhunu
+L171,Rajasthan,Jodhpur
+L172,Rajasthan,Churu
+L173,Rajasthan,Dausa
+L174,Rajasthan,Dholpur
+L175,Rajasthan,Dungarpur
+L176,Rajasthan,Hanumangarh
+L177,Rajasthan,Karauli
+L178,Rajasthan,Kota
+L179,Rajasthan,Nagaur
+L180,Rajasthan,Pratapgarh
+L181,Rajasthan,Rajsamand
+L182,Rajasthan,Sawai Madhopur
+L183,Rajasthan,Banswara
+L184,Rajasthan,Barmer
+L185,Rajasthan,Bharatpur
+L186,Rajasthan,Bhiwadi
+L187,Rajasthan,Bikaner
+L188,Rajasthan,Bundi
+L189,Rajasthan,Chittorgarh
+L190,TamilNadu,Coimbatore
+L191,TamilNadu,Cuddalore
+L192,TamilNadu,Perundurai
+L193,TamilNadu,Thoothukudi
+L194,Punjab,Khanna
+L195,Punjab,Ludhiana
+L196,Punjab,Patiala
+L197,Rajasthan,Ajmer
+L198,Rajasthan,Alwar
+L199,Uttar Pradesh,Gorakhpur
+L200,Uttar Pradesh,Greater Noida
+L201,Uttar Pradesh,Jhansi
+L202,Uttar Pradesh,Kanpur
+L203,Uttar Pradesh,Khora
+L204,Uttar Pradesh,Khurja
+L205,West Bengal,Howrah
+L206,West Bengal,Kolkata
+L207,West Bengal,Siliguri
+L208,Uttar Pradesh,Vrindavan
+L209,Uttarakhand,Dehradun
+L210,Uttarakhand,Rishikesh
+L211,West Bengal,Asansol
+L212,West Bengal,Barrackpore
+L213,Uttar Pradesh,Bulandshahr
+L214,Uttar Pradesh,Firozabad
+L215,Uttar Pradesh,Ghaziabad
+L216,Uttar Pradesh,Agra
+L217,Uttar Pradesh,Baghpat
+L218,Uttar Pradesh,Bareilly
+L219,West Bengal,Durgapur
+L220,West Bengal,Haldia
+L221,Uttar Pradesh,Lucknow
+L222,Uttar Pradesh,Meerut
+L223,Uttar Pradesh,Noida
+L224,Uttar Pradesh,Prayagraj
+L225,Uttar Pradesh,Raebareli
+L226,Uttar Pradesh,Varanasi
+L227,Uttar Pradesh,Moradabad
+L228,Chhattisgarh,Bilaspur
+L229,Bihar,Bihar Sharif
+L230,Bihar,Buxar
+L231,Bihar,Hajipur
+L232,Andhra Pradesh,Eluru
+L233,Andhra Pradesh,Kadapa
+L234,Andhra Pradesh,Chittoor
+L235,Gujarat,Rajkot
+L236,Gujarat,Vapi
+L237,Haryana,Kurukshetra
+L238,Haryana,Sirsa
+L239,Himachal Pradesh,Baddi
+L240,Madhya Pradesh,Damoh
+L241,Kerala,Kannur
+L242,Kerala,Thrissur
+L243,Madhya Pradesh,Maihar
+L244,Nagaland,Kohima
+L245,Odisha,Brajrajnagar
+L246,Maharashtra,Jalna
+L247,Maharashtra,Nagpur
+L248,Maharashtra,Satara
+L249,Maharashtra,Mahad
+L250,Odisha,Cuttack
+L251,TamilNadu,Gummidipoondi
+L252,Punjab,Bathinda
+L253,Punjab,Rupnagar
+L254,Rajasthan,Baran
+L255,Rajasthan,Bhilwara
+L256,Uttarakhand,Kashipur
+L257,Uttar Pradesh,Muzaffarnagar
+L258,Bihar,Motihari
+L259,Karnataka,Vijayapura
+L260,Rajasthan,Pali
+L261,Rajasthan,Sikar
+L262,Odisha,Nayagarh
+L263,Uttar Pradesh,Hapur
+L264,Madhya Pradesh,Pithampur
+L265,Punjab,Jalandhar
+L266,Jammu_and_Kashmir,Pampore
+L267,Jammu_and_Kashmir,Srinagar
