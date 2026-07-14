@@ -108,16 +108,20 @@ They are all linked together using a simple `Location_ID`, just like connecting 
 ## 📊 Visuals from the Analysis
 
 ### 1️⃣ Which Pollutants Show Up the Most?
-![Pollutant Count](images/graph-pollutant-count.png)
+<img width="371" height="218" alt="ppt 1" src="https://github.com/user-attachments/assets/72b047ac-34d4-4e95-8f81-1c5b73ac8bc1" />
+
 
 ### 2️⃣ Which Cities Are the Most Polluted?
-![City Pollution](images/graph-city-pollution.png)
+<img width="348" height="289" alt="ppt 3" src="https://github.com/user-attachments/assets/88f7da05-560e-496c-b2be-fc85f6492d0c" />
+
 
 ### 3️⃣ Which States Need the Most Attention?
-![State Pollution](images/graph-state-pollution.png)
+<img width="420" height="362" alt="ppt 4" src="https://github.com/user-attachments/assets/9b297884-e36f-46a9-998f-72c9503a67ff" />
+
 
 ### 4️⃣ Does Weather Affect Pollution?
-![Correlation Heatmap](images/graph-correlation.png)
+<img width="303" height="203" alt="ppt 6" src="https://github.com/user-attachments/assets/fb342ed9-95d1-4cac-82ed-132dd7bb163e" />
+
 
 ---
 
@@ -125,9 +129,11 @@ They are all linked together using a simple `Location_ID`, just like connecting 
 
 A clean, click-and-explore dashboard was built so anyone can filter by city, state, or pollutant.
 
-![Dashboard View 1](images/dashboard-1.png)
+<img width="593" height="332" alt="Dashboard 1" src="https://github.com/user-attachments/assets/ba96a304-04ef-4e59-906d-4d6ceb09730d" />
 
-![Dashboard View 2](images/dashboard-2.png)
+
+<img width="579" height="324" alt="Dashboard 2" src="https://github.com/user-attachments/assets/524417c4-ec93-4dae-b364-5ca3a7a7e7d5" />
+
 
 ---
 
